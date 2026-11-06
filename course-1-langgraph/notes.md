@@ -1,4 +1,4 @@
-# Lesson notes
+# Lesson 1 notes
 Basic Agent patter - ReAct : React + Action
 This follows Thought->Action->Observation->Final Answer
 
